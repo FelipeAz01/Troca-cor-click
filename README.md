@@ -32,7 +32,7 @@ A funcionalidade principal do projeto resolve o problema de testar e visualizar 
 
 ## 🌐 Deploy
 <div align="center"> 
-<a href="https://felipeaz01.github.io/Cafeteria/">
+<a href="https://felipeaz01.github.io/Troca-cor-click/">
   <img   width="120px" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"  /> 
 </a>
 </div>
