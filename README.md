@@ -8,7 +8,7 @@
 
 ## 📘 Descrição
 
-"Este projeto é uma aplicação interativa que permite aos usuários trocar as cores de elementos na tela com um simples clique. Ele suporta os modelos de cores RGB, RGBA e Hexadecimal (ex.: #FFFFFF), oferecendo uma experiência personalizável e visualmente agradável.
+"Este projeto é uma aplicação interativa que permite aos usuários trocar as cores de elementos na tela com um simples clique. Nele deve ser escrito o nome da cor ( em ingles ) e/ou Hexadecimal (ex.: #FFFFFF), oferecendo uma experiência personalizável e visualmente agradável.
 
 A funcionalidade principal do projeto resolve o problema de testar e visualizar rapidamente diferentes paletas de cores, sendo especialmente útil para designers, desenvolvedores e qualquer pessoa que trabalhe com interfaces visuais. Ele é ideal para criar protótipos, testar combinações de cores ou até mesmo como uma ferramenta educacional para aprender sobre os modelos de cores."
 
